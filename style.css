@@ -1,0 +1,37 @@
+
+.header  {
+    background-color: #5F5F5F;
+    height: 42px;
+    width:100%;
+}
+
+.menu {
+    position: absolute;
+    top: 20px;
+    left: 45%;
+}
+
+.header p {
+    color: #fff;
+    padding-right: 0px;
+    display: inline;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.header a {
+    padding: 10px;
+    background-color: ;
+    border-radius: ;
+}
+
+.header a:hover {
+    padding: 10px;
+    background-color: #4CAF50;
+    border-radius: 3px;
+}
+
+
+a {
+    text-decoration: none;
+}
